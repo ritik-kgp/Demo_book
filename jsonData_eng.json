@@ -1,0 +1,45 @@
+ {
+    "tbcpitw": [
+      {
+        "id": "tbcpitw_image1",
+        "pageNumber": 1,
+        "imageTop": 93,
+        "imageLeft": 63,
+        "width": 408,
+        "height": 100,
+        "adjustX": 0,
+        "adjustY": 0
+      },
+      {
+        "id": "tbcpitw_image2",
+        "pageNumber": 2,
+        "imageTop": 160,
+        "imageLeft": 253,
+        "width": 240,
+        "height": 218,
+        "adjustX": 0,
+        "adjustY": 0
+      },
+      {
+        "id": "tbcpitw_image3",
+        "pageNumber": 5,
+        "imageTop": 40,
+        "imageLeft": 33,
+        "width": 326,
+        "height": 198,
+        "adjustX": 0,
+        "adjustY": 0
+      },
+      {
+        "id": "tbcpitw_image4",
+        "pageNumber": 7,
+        "imageTop": 335,
+        "imageLeft": 207,
+        "width": 235,
+        "height": 228,
+        "adjustX": 0,
+        "adjustY": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,175 @@
+{
+    "agriculture": [
+      {
+        "id": "agriculture_image1",
+        "pageNumber": 2,
+        "imageTop": 66,
+        "imageLeft": 63,
+        "width": 467,
+        "height": 302,
+        "adjustX": 52,
+        "adjustY": 26     
+      },
+      {
+        "id": "agriculture_image2",
+        "pageNumber": 4,
+        "imageTop": 277,
+        "imageLeft": 351,
+        "width": 185,
+        "height": 110,
+        "adjustX": 54 ,
+        "adjustY" : 30    
+      },
+      {
+        "id": "agriculture_image3",
+        "pageNumber": 4,
+        "imageTop": 445,
+        "imageLeft": 350,
+        "width": 183,
+        "height": 126,
+        "adjustX": 54,
+        "adjustY" : 32   
+      },
+      {
+        "id": "agriculture_image4",
+        "pageNumber": 5,
+        "imageTop": 99,
+        "imageLeft": 81,
+        "width": 167,
+        "height": 184,
+        "adjustX": 54,
+        "adjustY" : 34     
+      },
+      {
+        "id": "agriculture_image5",
+        "pageNumber": 5,
+        "imageTop": 308,
+        "imageLeft": 81,
+        "width": 175,
+        "height": 110,
+        "adjustX": 54,
+        "adjustY" : 36    
+      },
+      {
+        "id": "agriculture_image6",
+        "pageNumber": 5,
+        "imageTop": 443,
+        "imageLeft": 81,
+        "width": 169,
+        "height": 104,
+        "adjustX": 54,
+        "adjustY" : 38    
+      },
+      {
+        "id": "agriculture_image7",
+        "pageNumber": 5,
+        "imageTop": 569,
+        "imageLeft": 81,
+        "width": 169,
+        "height": 105,
+        "adjustX": 54,
+        "adjustY" : 37   
+      },
+      {
+        "id": "agriculture_image8",
+        "pageNumber": 6,
+        "imageTop": 124,
+        "imageLeft": 61,
+        "width": 165,
+        "height": 104,
+        "adjustX": 54,
+        "adjustY" : 40    
+      },
+      {
+        "id": "agriculture_image9",
+        "pageNumber": 6,
+        "imageTop": 167,
+        "imageLeft": 421,
+        "width": 110,
+        "height": 86,
+        "adjustX": 54,
+        "adjustY" : 39   
+      },
+      {
+        "id": "agriculture_image10",
+        "pageNumber": 6,
+        "imageTop": 253,
+        "imageLeft": 61,
+        "width": 165,
+        "height": 104,
+        "adjustX": 54,
+        "adjustY" : 38    
+      },
+      {
+        "id": "agriculture_image11",
+        "pageNumber": 6,
+        "imageTop": 481,
+        "imageLeft": 61,
+        "width": 138,
+        "height": 144,
+        "adjustX": 54 ,
+        "adjustY" : 40    
+      },
+      {
+        "id": "agriculture_image12",
+        "pageNumber": 7,
+        "imageTop": 66,
+        "imageLeft": 80,
+        "width": 196,
+        "height": 128,
+        "adjustX": 54,
+        "adjustY" : 40    
+      },
+      {
+        "id": "agriculture_image13",
+        "pageNumber": 7,
+        "imageTop": 532,
+        "imageLeft": 78,
+        "width": 192,
+        "height": 131,
+        "adjustX": 52,
+        "adjustY" : 40    
+      },
+      {
+        "id": "agriculture_image14",
+        "pageNumber": 8,
+        "imageTop": 161,
+        "imageLeft": 333,
+        "width": 201,
+        "height": 127,
+        "adjustX": 54,
+        "adjustY" : 40    
+      },
+      {
+        "id": "agriculture_image15",
+        "pageNumber": 8,
+        "imageTop": 367,
+        "imageLeft": 328,
+        "width": 207,
+        "height": 118,
+        "adjustX": 54,
+        "adjustY" : 41  
+      },
+      {
+        "id": "agriculture_image16",
+        "pageNumber": 8,
+        "imageTop": 559,
+        "imageLeft": 62,
+        "width": 166,
+        "height": 119,
+        "adjustX": 54,
+         "adjustY" : 40     
+      },
+      {
+        "id": "agriculture_image17",
+        "pageNumber": 9,
+        "imageTop": 66,
+        "imageLeft": 78,
+        "width": 203,
+        "height": 109,
+        "adjustX" : 52 ,
+        "adjustY": 42
+      }
+    ]
+  }
+  
